@@ -1,0 +1,6 @@
+{
+  "name": "NavalCAD",
+  "description": "Marine machinery CAD with real-time FEA stress analysis, Python engineering console, and DWG/STEP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
